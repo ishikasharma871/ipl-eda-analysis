@@ -1,52 +1,74 @@
-# 🏏 IPL Data Analysis
+# 🏏 IPL Data Analysis (EDA Project)
 
 ## 📌 Project Overview
+This project performs Exploratory Data Analysis (EDA) on an IPL dataset to understand match outcomes, toss impact, player performance, and venue statistics using Python.
 
-This project performs Exploratory Data Analysis (EDA) on an IPL dataset to uncover patterns related to match outcomes, toss decisions, player performances, and venue statistics.
+---
 
 ## 🛠️ Tools & Libraries Used
+- Python  
+- Pandas  
+- NumPy  
+- Matplotlib  
+- Seaborn  
+- Jupyter Notebook  
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Jupyter Notebook
+---
 
 ## 📂 Dataset Information
+The dataset includes IPL match details such as:
+- match_winner  
+- toss_winner  
+- toss_decision  
+- player_of_the_match  
+- venue  
+- win_by_runs / win_by_wickets  
+- match margin  
+- top scorer  
 
-The dataset contains IPL match information including teams, toss winners, match winners, venues, player awards, winning margins, and top scorers.
+---
 
 ## 🔍 Analysis Performed
+- Team-wise match wins analysis  
+- Toss decision impact on match results  
+- Comparison of toss winner vs match winner  
+- Winning pattern (runs vs wickets)  
+- Top players of the match analysis  
+- Venue-wise match distribution  
+- Highest margin victories  
+- Highest individual scores  
 
-* Team-wise Match Wins
-* Toss Decision Analysis
-* Toss Winner vs Match Winner Comparison
-* Runs vs Wickets Victory Analysis
-* Player of the Match Analysis
-* Venue Analysis
-* Highest Margin Victories
-* Highest Individual Scores
+---
 
 ## 📊 Visualizations Used
+- Count Plot (team wins, toss decision)  
+- Bar Plot (top teams, players, venues)  
+- Statistical summaries for performance analysis  
 
-* Count Plot
-* Bar Plot
-* Statistical Summaries
+---
 
 ## 💡 Key Insights
+- Some teams consistently perform better in IPL history  
+- Toss decision has partial impact on match outcome  
+- Winning by wickets is more frequent than large run wins  
+- A few players dominate Player of the Match awards  
+- Certain venues host significantly more matches  
 
-* Certain teams dominate IPL win statistics.
-* Toss decisions influence match outcomes in many games.
-* Some players consistently win Player of the Match awards.
-* A few venues host significantly more matches than others.
-* Teams win matches through both runs and wickets, with different patterns observed.
+---
+
+## 🚀 How to Run This Project
+1. Install dependencies:
+
+2. Run Python file 
+OR open Jupyter Notebook:
+
+---
 
 ## 🎯 What I Learned
+This project helped me understand data analysis, visualization, and trend identification using real-world sports data.
 
-Through this project, I learned how to analyze sports datasets using Python and derive meaningful insights from match statistics. I improved my skills in data visualization, data exploration, and identifying trends using Pandas, Matplotlib, and Seaborn.
+---
 
 ## 👩‍💻 Author
-
-Ishika Sharma
+Ishika Sharma  
 BCA Student | Aspiring Data Analyst
