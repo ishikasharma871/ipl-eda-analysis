@@ -1,11 +1,11 @@
-# 🏏 IPL Data Analysis (EDA Project)
+# IPL Data Analysis (EDA Project)
 
-## 📌 Project Overview
+##  Project Overview
 This project performs Exploratory Data Analysis (EDA) on an IPL dataset to understand match outcomes, toss impact, player performance, and venue statistics using Python.
 
 ---
 
-## 🛠️ Tools & Libraries Used
+## Tools & Libraries Used
 - Python  
 - Pandas  
 - NumPy  
@@ -15,7 +15,7 @@ This project performs Exploratory Data Analysis (EDA) on an IPL dataset to under
 
 ---
 
-## 📂 Dataset Information
+##  Dataset Information
 The dataset includes IPL match details such as:
 - match_winner  
 - toss_winner  
@@ -28,7 +28,7 @@ The dataset includes IPL match details such as:
 
 ---
 
-## 🔍 Analysis Performed
+## Analysis Performed
 - Team-wise match wins analysis  
 - Toss decision impact on match results  
 - Comparison of toss winner vs match winner  
@@ -40,14 +40,14 @@ The dataset includes IPL match details such as:
 
 ---
 
-## 📊 Visualizations Used
+##  Visualizations Used
 - Count Plot (team wins, toss decision)  
 - Bar Plot (top teams, players, venues)  
 - Statistical summaries for performance analysis  
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 - Some teams consistently perform better in IPL history  
 - Toss decision has partial impact on match outcome  
 - Winning by wickets is more frequent than large run wins  
@@ -56,7 +56,7 @@ The dataset includes IPL match details such as:
 
 ---
 
-## 🚀 How to Run This Project
+## How to Run This Project
 1. Install dependencies:
 
 2. Run Python file 
@@ -64,11 +64,11 @@ OR open Jupyter Notebook:
 
 ---
 
-## 🎯 What I Learned
+##  What I Learned
 This project helped me understand data analysis, visualization, and trend identification using real-world sports data.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 Ishika Sharma  
 BCA Student | Aspiring Data Analyst
